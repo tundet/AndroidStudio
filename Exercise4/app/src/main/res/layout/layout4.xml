@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    style="@style/Pink"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        style="@style/PinkTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Layout 3"
+        android:id="@+id/textView2"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        style="@style/Pink"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Certain varieties of snails, notably the family Muricidae, produce a secretion that is a color-fast natural dye. The ancient Tyrian purple was made in this way as were other purple and blue dyes."
+        android:id="@+id/textView3"
+        android:layout_gravity="center_horizontal"
+        android:autoText="false" />
+
+    <Button
+        style="@style/PinkButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BACK"
+        android:id="@+id/button6"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

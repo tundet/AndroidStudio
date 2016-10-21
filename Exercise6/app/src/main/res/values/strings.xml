@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Exercise6</string>
+    <string name="birds">Select a bird from menu</string>
+    <string name="op1">Splendid fairywren</string>
+    <string name="op2">Great hornbill</string>
+    <string name="string">The splendid fairywren (Malurus splendens), also known simply as the splendid wren or more colloquially in Western Australia as the blue wren, is a passerine bird of the Maluridae family. It is found across much of the Australian continent from central-western New South Wales and southwestern Queensland over to coastal Western Australia. It inhabits predominantly arid and semi-arid regions. Exhibiting a high degree of sexual dimorphism, the male in breeding plumage is a small, long-tailed bird of predominantly bright blue and black colouration. Non-breeding males, females and juveniles are predominantly grey-brown in colour; this gave the early impression that males were polygamous as all dull-coloured birds were taken for females. It comprises several similar all-blue and black subspecies that were originally considered separate species.</string>
+    <string name="string2">The great hornbill (Buceros bicornis) also known as the great Indian hornbill or great pied hornbill, is one of the larger members of the hornbill family. It is found in South and Southeast Asia. Its impressive size and colour have made it important in many tribal cultures and rituals. The great hornbill is long-lived, living for nearly 50 years in captivity. It is predominantly frugivorous, but is an opportunist and will prey on small mammals, reptiles and birds.</string>
+    <string name="toast">Cancelled</string>
+    <string name="titleDialog">Are you sure?</string>
+    <string name="messageDialog">You are about to leave this app</string>
+    <string name="messageDialog2">You are about to leave this page</string>
+    <string name="ok">Accept</string>
+    <string name="cancel">Cancel</string>
+</resources>

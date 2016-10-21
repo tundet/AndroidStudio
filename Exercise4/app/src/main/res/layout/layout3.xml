@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    style="@style/Fall"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+
+    <TextView
+        style="@style/FallTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Layout 3"
+        android:id="@+id/textView2"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        style="@style/Fall"
+        android:layout_width="343dp"
+        android:layout_height="220dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="In contemporary speech, the expression &quot;a snail&apos;s pace&quot; is often used to describe a slow, inefficient process. The phrase &quot;snail mail&quot; is used to mean regular postal service delivery of paper messages as opposed to the delivery of email, which can be virtually instantaneous."
+        android:id="@+id/textView3"
+        android:layout_gravity="center_horizontal"
+        android:autoText="false"
+        android:layout_weight="0.35" />
+
+    <Button
+        style="@style/FallButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BACK"
+        android:id="@+id/button5"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

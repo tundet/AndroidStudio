@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercice6</string>
+    <string name="op1">Mérion splendide</string>
+    <string name="birds">Sélectionnez un oiseau dans le menu</string>
+    <string name="op2">Calao bicorne</string>
+    <string name="string">Le Mérion splendide (Malurus splendens) est une espèce de passereaux de la famille des Maluridae largement répandu en Australie où il est endémique. On, le trouve depuis l\'est de la Nouvelle-Galles du Sud jusqu\'à l\'Australie Occidentale. Il habite surtout les régions arides et semi-arides. C\'est un petit oiseau avec une longue queue aux couleurs d\'un bleu brillant lors de la période de reproduction.</string>
+    <string name="string2">Le Calao bicorne (Buceros bicornis) est une espèce d\'oiseau appartenant à la famille des Bucerotidae. Il vit dans le sud et le sud-est de l\'Asie.</string>
+    <string name="toast">Annulé</string>
+    <string name="titleDialog">Êtes-vous sûr?</string>
+    <string name="ok">Acceptez</string>
+    <string name="messageDialog">Vous êtes sur le point de quitter cette app</string>
+    <string name="cancel">Annuler</string>
+    <string name="messageDialog2">Vous êtes sur le point de quitter cette page</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/Base.TextAppearance.AppCompat"
+    android:background="@color/accent_material_dark"
+    android:backgroundTint="@color/accent_material_light"
+    android:backgroundTintMode="src_over"
+    android:weightSum="1">
+
+
+    <TextView
+        android:layout_width="275dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="This is Activity3"
+        android:id="@+id/textView" />
+
+    <TextView
+        android:layout_width="275dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/inputView" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to Activity 4"
+        android:id="@+id/button3" />
+
+
+</LinearLayout>

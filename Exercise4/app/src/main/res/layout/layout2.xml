@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    style="@style/Vomit"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        style="@style/VomitTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Layout 2"
+        android:id="@+id/textView2"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#554D00" />
+
+    <TextView
+        style="@style/Vomit"
+        android:layout_width="327dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Gastropods that lacks a conspicuous shell are commonly called slugs rather than snails. Some species of slug have a red shell, some have only an internal vestige that serves mainly as a calcium repository, and others have no shell at all. Other than that there is little morphological difference between slugs and snails."
+        android:id="@+id/textView3"
+        android:layout_gravity="center_horizontal"
+        android:autoText="false" />
+
+    <Button
+        style="@style/VomitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BACK"
+        android:id="@+id/button4"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

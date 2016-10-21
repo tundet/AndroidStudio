@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio6</string>
+    <string name="op1">Malurus splendens</string>
+    <string name="string">La ratona australiana franjeada o maluro espléndido (Malurus splendens) es una especie de ave paseriforme de la familia Maluridae, de pequeño tamaño y larga cola. Se encuentra por la mayor parte del continente australiano desde el centro y oeste de Nueva Gales del Sur y el suroeste de Queensland a la costa occidental de Australia. Sus hábitats se encuentran principalmente en las regiones áridas y semiáridas. Presenta un gran dimorfismo sexual, el plumaje nupcial de los machos es predominantemente azul brillante con alguna franja negra, mientras que los machos en eclipse, las hembras y los juveniles son de color predominantemente pardo grisáceo.</string>
+    <string name="op2">Buceros bicornis</string>
+    <string name="string2">El cálao bicorne (Buceros bicornis) es una especie de ave bucerotiforme de la familia Bucerotidae, de inconfundible aspecto, que habita las selvas existentes entre el noreste de la India, Indochina y la península malaya, y en la isla de Sumatra. No se reconocen subespecies.  Mide de 90 a 100 cm de longitud. Sus costumbres reproductivas son únicas entre las aves ya que el macho "empareda" en un tronco a la hembra mientras dura la incubación.</string>
+    <string name="birds">Seleccionar un pájaro en el menú</string>
+    <string name="cancel">Cancelar</string>
+    <string name="messageDialog">Usted está a punto de salir de esta app</string>
+    <string name="ok">Aceptar</string>
+    <string name="titleDialog">¿Estás seguro?</string>
+    <string name="toast">Cancelado</string>
+    <string name="messageDialog2">Usted está a punto de salir de esta página</string>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Vomit" parent="@android:style/TextAppearance">
+        <item name="android:background">#AAA039</item>
+        <item name="android:textColor">#FFF7AA</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="VomitTitle" parent="@android:style/TextAppearance.DeviceDefault.Large">
+        <item name="android:textColor">#554D00</item>
+        <item name="android:background">#AAA039</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:layout_marginBottom">30dp</item>
+    </style>
+
+    <style name="VomitButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">#D4CB6A</item>
+        <item name="android:background">#D4CB6A</item>
+        <item name="android:textColor">#554D00</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="Fall" parent="@android:style/TextAppearance">
+    <item name="android:background">#AA5939</item>
+    <item name="android:textColor">#FFC2AA</item>
+    <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="FallTitle" parent="@android:style/TextAppearance.DeviceDefault.Large">
+        <item name="android:textColor">#551800</item>
+        <item name="android:background">#AA5939</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:layout_marginTop">30dp</item>
+    </style>
+
+    <style name="FallButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:background">#D4886A</item>
+        <item name="android:textColor">#551800</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="Pink" parent="@android:style/TextAppearance">
+    <item name="android:background">#C02C4E</item>
+    <item name="android:textColor">#ED7E98</item>
+    <item name="android:typeface">monospace</item>
+</style>
+
+    <style name="PinkTitle" parent="@android:style/TextAppearance.DeviceDefault.Large">
+        <item name="android:textColor">#79001C</item>
+        <item name="android:background">#C02C4E</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:layout_margin">30dp</item>
+    </style>
+
+    <style name="PinkButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:background">#D44F6E</item>
+        <item name="android:textColor">#79001C</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="Blue" parent="@android:style/TextAppearance">
+        <item name="android:background">#2C448D</item>
+        <item name="android:textColor">#6A7DB6</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="BlueTitle" parent="@android:style/TextAppearance.DeviceDefault.Large">
+        <item name="android:textColor">#0A1E59</item>
+        <item name="android:background">#2C448D</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:layout_margin">30dp</item>
+    </style>
+
+    <style name="BlueButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:background">#455B9C</item>
+        <item name="android:textColor">#0A1E59</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="Widget.AppCompat.Button.Colored"></style>
+
+    <style name="Theme.AppCompat.Light"></style>
+</resources>

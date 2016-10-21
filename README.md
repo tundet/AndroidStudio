@@ -1,2 +1,2 @@
-# AndroidStudio
-android studio exercises
+# Introduction to Android Programming course
+Summer School (Information Technology)
